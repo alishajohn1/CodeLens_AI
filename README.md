@@ -18,8 +18,8 @@ An AI-powered code review SaaS built with React, Node.js, Claude API, Stripe, an
 
 ---
 
-## Built for placement portfolio
-This project demonstrates:
+## This project demonstrates:
+
 - Full-stack React + Node.js architecture
 - JWT-based authentication
 - Groq AI API integration
