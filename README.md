@@ -13,9 +13,8 @@ An AI-powered code review SaaS built with React, Node.js, Claude API, Stripe, an
 | Backend | Node.js + Express |
 | Database | PostgreSQL via Prisma ORM |
 | Auth | JWT + bcrypt |
-| AI | Claude (Anthropic API) |
-| Payments | Stripe |
-| Deployment | Vercel (frontend) + Render (backend) |
+| AI | Groq(Groq API) |
+| Payments | Stripe 
 
 ---
 
@@ -23,7 +22,7 @@ An AI-powered code review SaaS built with React, Node.js, Claude API, Stripe, an
 This project demonstrates:
 - Full-stack React + Node.js architecture
 - JWT-based authentication
-- Claude AI API integration
+- Groq AI API integration
 - Stripe payment/subscription system
 - PostgreSQL database with Prisma ORM
 - Rate limiting and plan-based access control
